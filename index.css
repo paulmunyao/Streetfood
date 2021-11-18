@@ -44,6 +44,14 @@
     border: none;
     background-color: #1EAB07;
 }
-.pamoja img{
+.pic img{
     height: 500px;
+}
+.pamoja h2{
+    color: #FFD580;
+    font-family: Roboto;
+    font-size: 27px;
+}
+.pamoja p{
+    font-size: 15px;
 }
