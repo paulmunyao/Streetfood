@@ -17,7 +17,14 @@
 }
 .logo{
     text-align: center;
+    /* margin-bottom: 200px; */
+    bottom: 60px;
+    position: relative;
 }
 .nyota{
     font-size: 500%;
+}
+.str{
+    font-family: Roboto;
+    font-size: 20px;
 }
