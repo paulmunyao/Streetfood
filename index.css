@@ -1,3 +1,6 @@
+.body{
+    font-family: "Roboto";
+}
 .top{
     float: right;
 }
@@ -45,13 +48,19 @@
     background-color: #1EAB07;
 }
 .pic img{
-    height: 500px;
+    height: 450px;
+    padding-top: 80px;
 }
-.pamoja h2{
+.pic h2{
     color: #FFD580;
     font-family: Roboto;
     font-size: 27px;
+    /* text-align: center; */
+    margin-left: 780px; 
+    /* margin-bottom: -350px;  */
 }
-.pamoja p{
-    font-size: 15px;
+.pic p{
+    font-size: 17px;
+    /* text-align: center; */
+    margin-left: 790px;
 }
