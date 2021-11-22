@@ -67,4 +67,12 @@
     text-align: center;
     margin-left: 390px;
     margin-top: -400px;  
+}.close{
+    border: 1px solid red;
+    height: 600px;
 }
+.open{
+    background-color: #add8e6;
+    height: 600px;   
+}
+
