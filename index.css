@@ -76,7 +76,7 @@
   height: 520px;
 }
 .open {
-  background-color: #f5fcff;
+  background-color: #e4f2f7;
   /* height: 600px;  */
   margin-bottom: 500px;
   width: 97%;
@@ -91,7 +91,7 @@
 }
 
 .menu {
-  background-color: red;
+  background-color: white;
   width: 25%;
   position: relative;
   height: 150px;
@@ -108,35 +108,12 @@
 .menu h3 {
   margin-left: 25px;
   padding-top: 15px;
+  font-family: "Roboto";
 }
 .menu p {
   text-align: center;
   margin-right: 20px;
   margin-left: 25px;
+  margin-top: -15px;
+  font-family: "Roboto";
 }
-
-/* .picha{
-    background-color: red;
-    height: 140px;
-    width: 300px;
-    position: relative;
-    left: 100px;
-   
-}
-.picha img{
-    height: 170px;
-    padding-top: 10px;
-    position: relative;
-    left: -120px;
-}
-.bur{
-    text-align: center;
-    margin-top: -160px;
-    margin-left: -800px;
-}
-.bur h3{
-    margin-left: -90px;
-}
-.bur p{
-    margin-right: -90px;
-} */
