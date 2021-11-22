@@ -1,78 +1,142 @@
-.body{
-    font-family: "Roboto";
+.body {
+  font-family: "Roboto";
+  width: 100%;
 }
-.top{
-    float: right;
+.top {
+  float: right;
 }
-.top li{
-    display: inline-block;
-    margin: 15px;
-    padding-right: 50px;
+.top li {
+  display: inline-block;
+  margin: 15px;
+  padding-right: 50px;
 }
-.pot li{
-    display: inline-block;
-    margin: 15px;
-    padding-right: 50px;
+.pot li {
+  display: inline-block;
+  margin: 15px;
+  padding-right: 50px;
 }
-.logo{
-    text-align: center;
-    bottom: 60px;
-    position: relative;
+.logo {
+  text-align: center;
+  top: -60px;
+  position: relative;
+  margin-right: 50px;
 }
-.nyota{
-    font-size: 500%;
+.nyota {
+  font-size: 500%;
 }
-.log{
-    text-align: center;
-    bottom: 220px;
-    position: relative;
-    font-size: 350%;
-    color: #654321;
+.log {
+  text-align: center;
+  top: -220px;
+  position: relative;
+  font-size: 350%;
+  color: #654321;
+  margin-right: 50px;
 }
-.str{
-    font-family: Roboto;
-    font-size: 20px;
-    margin-left: 50px;
+.str {
+  font-family: Roboto;
+  font-size: 20px;
+  margin-left: 50px;
 }
-.str h3{
-    font-size: 24px;
+.str h3 {
+  font-size: 24px;
 }
-.str p{
-    font-size: 15px;
+.str p {
+  font-size: 15px;
 }
-.btn{
-    border-radius: 60px;
-    height: 40px;
-    width: 120px;
-    border: none;
-    background-color: #1EAB07;
+.btn {
+  border-radius: 60px;
+  height: 40px;
+  width: 120px;
+  border: none;
+  background-color: #1eab07;
 }
-.pic img{
-    height: 450px;
-    padding-top: 80px;
-    margin-bottom: 50px;
+.pic img {
+  height: 420px;
+  padding-top: 80px;
+  margin-bottom: 50px;
 }
-.one{
-    color: #FFD580;
-    font-family: Roboto;
-    font-size: 40px;
-    text-align: center;
-    margin-left: 10px;
-    margin-top: -350px; 
-    text-indent: 4px;
-    white-space: pre;  
+.one {
+  color: #ffd580;
+  font-family: Roboto;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 10px;
+  margin-top: -350px;
+  text-indent: 4px;
+  white-space: pre;
 }
 .pamoja {
-    font-size: 17px;
-    text-align: center;
-    margin-left: 390px;
-    margin-top: -400px;  
-}.close{
-    border: 1px solid red;
-    height: 600px;
+  font-size: 17px;
+  text-align: center;
+  margin-left: 390px;
+  margin-top: -400px;
 }
-.open{
-    background-color: #add8e6;
-    height: 600px;   
+.close {
+  border: 1px solid red;
+  height: 520px;
+}
+.open {
+  background-color: #f5fcff;
+  /* height: 600px;  */
+  margin-bottom: 500px;
+  width: 97%;
+  margin: 20px;
+  padding: 60px;
+}
+.food h2 {
+  font-family: "Roboto";
+  font-size: 25px;
+  text-align: center;
+  padding-top: 30px;
 }
 
+.menu {
+  background-color: red;
+  width: 25%;
+  position: relative;
+  height: 150px;
+  border-radius: 0 0 55px 0;
+  padding-bottom: 20px;
+}
+
+.menu img {
+  height: 150px;
+  position: absolute;
+  bottom: -27px;
+  left: -100px;
+}
+.menu h3 {
+  margin-left: 25px;
+  padding-top: 15px;
+}
+.menu p {
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 25px;
+}
+
+/* .picha{
+    background-color: red;
+    height: 140px;
+    width: 300px;
+    position: relative;
+    left: 100px;
+   
+}
+.picha img{
+    height: 170px;
+    padding-top: 10px;
+    position: relative;
+    left: -120px;
+}
+.bur{
+    text-align: center;
+    margin-top: -160px;
+    margin-left: -800px;
+}
+.bur h3{
+    margin-left: -90px;
+}
+.bur p{
+    margin-right: -90px;
+} */
